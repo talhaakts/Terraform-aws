@@ -1,5 +1,4 @@
 talha-key.pub
-terraform.tfstate# Local .terraform directories
 **/.terraform/*
 
 # .tfstate files
